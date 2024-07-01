@@ -9,7 +9,7 @@ I have been learning to program for more than 5 years, even before I entered to 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [Bucket Of Code \[WIP\]](http://github.com/Scoowy)
 * ✉️  You can contact me at [gahonajuanjo@gmail.com](mailto:gahonajuanjo@gmail.com)
-* 🚀  I'm currently working on [OptiCortes Suit](http://opticortes.ec)
+* 🚀  I'm currently working on [DIGO](https://www.digo.ai/es) as a backend developer.
 * 🧠  I'm learning how to implement application architectures and thus level up my applications.
 * ⚡  I dream of living and working in the Netherlands.
 
