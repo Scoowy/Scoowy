@@ -9,7 +9,7 @@ I have been learning to program for more than 5 years, even before I entered to 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [Bucket Of Code \[WIP\]](http://github.com/Scoowy)
 * ✉️  You can contact me at [gahonajuanjo@gmail.com](mailto:gahonajuanjo@gmail.com)
-* 🚀  I'm currently working on [DIGO](https://www.digo.ai/es) as a backend developer.
+* 🚀  I'm currently working on [DIGO](https://www.digo.ai/es) as a PM, backend and frontend developer.
 * 🧠  I'm learning how to implement application architectures and thus level up my applications.
 * ⚡  I dream of living and working in the Netherlands.
 
@@ -47,8 +47,8 @@ src="https://img.shields.io/github/followers/Scoowy?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Scoowy"><img src="https://github-readme-stats.vercel.app/api?username=Scoowy&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Scoowy's GitHub stats" /></a>
+<a href="http://www.github.com/Scoowy"><img src="https://scoowy-github-readme-stats.vercel.app/api?username=Scoowy&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Scoowy's GitHub stats" /></a>
 
 <a href="http://www.github.com/Scoowy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Scoowy&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/Scoowy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scoowy&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Scoowy" align="left"><img src="https://scoowy-github-readme-stats.vercel.app/api/top-langs/?username=Scoowy&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
